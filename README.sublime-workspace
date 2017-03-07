@@ -1,0 +1,236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/IJulia/julia-build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Julia.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Julia.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "open",
+		"selected_items":
+		[
+			[
+				"open",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"apply",
+				"Apply Julia Syntax to .jl Files"
+			],
+			[
+				"open ju",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zhangguo/Codes/test/test3.jl",
+		"/Users/zhangguo/Codes/test/test2.jl",
+		"/Users/zhangguo/Library/Application Support/Sublime Text 3/Packages/User/Julia.sublime-build",
+		"/Users/zhangguo/Library/Application Support/Sublime Text 3/Packages/User/julia",
+		"/Users/zhangguo/Codes/test/test.jl",
+		"/Users/zhangguo/Library/Application Support/Sublime Text 3/Packages/User/Sublime-IJulia.sublime-settings",
+		"/Users/zhangguo/Library/Application Support/Sublime Text 3/Packages/IJulia/Sublime-IJulia.sublime-settings",
+		"/Users/zhangguo/Codes/xmucpp/2017plan.md",
+		"/Users/zhangguo/Courses/Chinese_Economy/Term_Paper/sensitivity.tex",
+		"/Users/zhangguo/Downloads/dynamic(1).tex",
+		"/Users/zhangguo/Downloads/Game Theory paper.tex",
+		"/Users/zhangguo/Courses/Chinese_Economy/Term_Paper/sentivity_slides.tex",
+		"/Users/zhangguo/Downloads/dynamic.tex",
+		"/Users/zhangguo/Courses/Econometrics/ps6/econometrics_ps6.tex",
+		"/Users/zhangguo/Courses/Chinese_Economy/hw5/hw5.tex",
+		"/Users/zhangguo/Courses/Chinese_Economy/hw5/test2.py",
+		"/Users/zhangguo/Library/Application Support/Sublime Text 3/Cache/Python/Python.sublime-syntax.cache",
+		"/Users/zhangguo/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-build",
+		"/Users/zhangguo/Courses/Chinese_Economy/hw5/test.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Julia.sublime-build",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
