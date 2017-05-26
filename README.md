@@ -1,12 +1,18 @@
-# Introduction
-
-A descriptive statistics for data from China's Prices Project at Xiamen University.
-
-# Features
-- preprocessing.py: preprocess data from prepared data.
-  * 
-
-# Dependencies
+# Price Patterns on China Online Retailer Platforms
 
 
-# To Do List
+A descriptive statistics of price patterns on China online retailer platforms collected by China's Prices Project.
+
+
+## Dependencies
+
+- Python 2.7.x
+
+
+## Project Structure
+
+
+
+
+
+## To Do List
